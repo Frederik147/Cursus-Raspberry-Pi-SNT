@@ -8,5 +8,5 @@ Noteer hier welke hardware je gebruikt.
 ## Software
 Noteer hier welke software je gebruikt.
 Noteer eveneens welke aanpassingen je aan welke configuratiebesanden je hebt doorgevoerd.
-## Eigen scripts en programma's
+### Eigen scripts en programma's
 Sla je als apparte bestanden op in deze repository.
